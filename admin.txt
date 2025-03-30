@@ -1,1 +1,3 @@
-adds ad ramoves user
+adds and removes user
+
+he is the one having  authentication
